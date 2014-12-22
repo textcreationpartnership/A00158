@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Articles to be enquired of, within the prouince of Canterburie, in the metropoliticall visitation of
+ARTICLES to be enquired of, within the Prouince of Canterburie, in the Metropoliticall visitation of
 #####Body#####
-Articles to be enquired of, within the prouince of Canterburie, in the metropoliticall visitation of
+
+1. Articles to be enquired of, within the Prouince of Canterburie. &c.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
